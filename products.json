@@ -1,0 +1,34 @@
+{
+  "storeName": "Kaze Market",
+  "storeTagline": "Official Digital Store & Premium Access",
+  "telegramUsername": "KING_OwnerOfBot",
+  "whatsappNumber": "6285184017791",
+  "instagramUsername": "kaze.market",
+  "qrisTitle": "QRIS All Payment",
+  "qrisImage": "QRIS.jpg",
+  "categories": ["Semua Produk", "Aplikasi Premium", "Akses VIP"],
+  "socialLinks": [
+    { "name": "WhatsApp Official", "url": "https://wa.me/6285184017791" },
+    { "name": "Telegram Support", "url": "https://t.me/KING_OwnerOfBot" },
+    { "name": "Instagram Catalog", "url": "https://instagram.com" }
+  ],
+  "testimonials": [],
+  "products": [
+    {
+      "id": "alight-motion",
+      "category": "Aplikasi Premium",
+      "title": "Alight Motion Premium",
+      "tag": "BEST SELLER",
+      "shortDesc": "Aplikasi editor video profesional tanpa watermark & full unlock.",
+      "fullDesc": "Akun/Akses Alight Motion Premium resmi dengan durasi aktif 1 tahun. Cocok untuk editor pemula hingga profesional.",
+      "benefits": [
+        "Tanpa Watermark (No Watermark)",
+        "Export Video HD & 4K",
+        "Akses Semua Efek & Preset Premium",
+        "Garansi & Full Support"
+      ],
+      "priceName": "Langganan 1 Tahun",
+      "price": "Rp 1.000"
+    }
+  ]
+}
